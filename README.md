@@ -17,5 +17,5 @@ architecture:
     
     
 The project is being developed in the department of computer science in Ben-gurion University of the Negev Israel, under the NLP group
-http://www.cs.bgu.ac.il/~nlpproj/
+http://www.cs.bgu.ac.il/~elhadad/nlpproj/
 
